@@ -1,0 +1,4 @@
+Essential Variables for Analysis,,,,,,,,,,,
+Borough,Neighborhood,Bldclasscat,TaxClasscurr,Block,Lot,BldClassCurr,Address,AptNum,Zip,ResUnits,ComUnits
+TotUnits,LandSqft,GrossSqft,Yrbuilt,TaxClassSale,BldClassSale,Price,Date,BuildingAgeatSale,Quarter,Neighborhood_Category,block_bucket
+,,,,,,,,,,,
